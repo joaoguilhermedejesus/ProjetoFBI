@@ -32,3 +32,9 @@
 .container_botao:checked~.lista-menu {
     display: block;
 }
+
+.lista-menu_título,
+.lista-menhu_item {
+    padding: 1em;
+    background-color: var(--branco);
+}
