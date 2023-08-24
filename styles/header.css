@@ -42,6 +42,7 @@
 
 .lista-menu_título {
     color: var(--laranja);
+    font-weight: 700;
 }
 
 .lista-menu_link {
@@ -50,5 +51,8 @@
 -webkit-text-fill-color: transparent;
 background-clip: text;
    text-transfrom: uppercase;
+}
 
+.container_botao {
+    display: none;
 }
